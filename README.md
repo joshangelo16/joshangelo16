@@ -1,4 +1,10 @@
-## Hi there 👋
+Hello, I'm Josh 👋 based in Philippines.
+
+I build projects and always trying something new.
+
+My main tech stack is SQL, Python and React.
+
+
 
 <!--
 **joshangelo16/joshangelo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
