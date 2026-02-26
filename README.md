@@ -2,13 +2,7 @@ Hello, I'm Josh 👋 based in Philippines.
 
 I build projects and always trying something new.
 
-My expertise lies in 
-SQL 
-Python 
-Bash 
-Git
-Linux
-React
+My expertise lies in SQL Python Bash Git Linux and React
 
 
 
