@@ -1,9 +1,4 @@
-Hello, I'm Josh 👋 based in Philippines.
-
-I build projects and always trying something new.
-
-My expertise lies in SQL, Excel, Python, Bash, Git, Linux, Networking and IT Related.
-
+Software Engineer 
 
 
 
